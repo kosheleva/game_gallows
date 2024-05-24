@@ -6,6 +6,7 @@ A funny gallows-game, written in Python.
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demo](#demo)
 
 ## Installation
 
@@ -17,3 +18,8 @@ To run a game:
 ```sh
 python3 main.py
 ```
+
+## Demo
+
+https://github.com/kosheleva/game_gallows/assets/9432202/7f325c34-90e7-47c4-8505-7f2923a97e2e
+
